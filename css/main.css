@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 Project:  ComingSoon
-Version:  
-Last change:  
+Version:
+Last change:
 Assigned to:  Bach Le
-Primary use:  
+Primary use:
 -------------------------------------------------------------------*/
 
 
@@ -12,23 +12,23 @@ Primary use:
 [ FONT ]*/
 
 @font-face {
-  font-family: Poppins-Regular;
-  src: url('../fonts/Poppins/Poppins-Regular.ttf'); 
+  font-family: OpenSans-Regular;
+  src: url('../fonts/OpenSans/OpenSans-Regular.ttf');
 }
 
 @font-face {
-  font-family: Poppins-Bold;
-  src: url('../fonts/Poppins/Poppins-Bold.ttf'); 
+  font-family: OpenSans-Bold;
+  src: url('../fonts/OpenSans/OpenSans-Bold.ttf');
 }
 
 @font-face {
-  font-family: Poppins-Thin;
-  src: url('../fonts/Poppins/Poppins-Thin.ttf'); 
+  font-family: OpenSans-Thin;
+  src: url('../fonts/OpenSans/OpenSans-Thin.ttf');
 }
 
 @font-face {
-  font-family: Poppins-Black;
-  src: url('../fonts/Poppins/Poppins-Black.ttf'); 
+  font-family: OpenSans-Black;
+  src: url('../fonts/OpenSans/OpenSans-Black.ttf');
 }
 
 
@@ -75,7 +75,7 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ S-Text 0 - 15 ]*/
 .s1-txt1 {
-  font-family: Poppins-Regular;
+  font-family: OpenSans-Regular;
   font-size: 12px;
   color: #fff;
   line-height: 1;
@@ -87,7 +87,7 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ M-Text 16 - 25 ]*/
 .m1-txt1 {
-  font-family: Poppins-Regular;
+  font-family: OpenSans-Regular;
   font-size: 18px;
   color: #555;
   line-height: 1.2;
@@ -99,7 +99,7 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: Poppins-Thin;
+  font-family: OpenSans-Thin;
   font-size: 72px;
   line-height: 1.1;
   color: rgba(255,255,255,0.5);
@@ -108,14 +108,14 @@ Primary use:
 }
 
 .l1-txt2 {
-  font-family: Poppins-Black;
+  font-family: OpenSans-Black;
   font-size: 120px;
   line-height: 1;
   color: #fff;
   text-transform: uppercase;
 }
 .l3-txt1 {
-  font-family: Poppins-Thin;
+  font-family: OpenSans-Thin;
   font-size: 26px;
   line-height: 1.1;
   color: rgba(255,255,255,0.5);
@@ -179,7 +179,7 @@ Primary use:
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 .where1 {
   align-self: flex-start;
@@ -188,7 +188,7 @@ Primary use:
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #999999;}
 .placeholder0:-moz-placeholder { color: #999999;}
@@ -399,7 +399,7 @@ Primary use:
   .respon1 {
     font-size: 45px;
   }
-  
+
 }
 
 
